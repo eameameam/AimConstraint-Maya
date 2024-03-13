@@ -162,5 +162,3 @@ def show_aim_constraint_dialog():
         pass
     dialog = AimConstraintDialog()
     dialog.show()
-
-show_aim_constraint_dialog()
