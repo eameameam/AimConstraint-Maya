@@ -1,6 +1,7 @@
 # LocatorToBonesAim
 
 The `LocatorToBonesAim` script in Maya creates aim constraints between two joints, based on locator positions. This automates the setup of aim constraints, which is often used to align one object to face another.
+
 ![LocatorToBonesAim Window](LocatorToBonesAim.png)
 
 ## Installation
